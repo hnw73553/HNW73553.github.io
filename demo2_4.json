@@ -29,7 +29,7 @@
             "type": "Feature",
             "properties": {
                 "id": "ak16994519",
-                "mag": 1.7,
+                "mag": 4,
                 "time": 1507425289659,
                 "felt": null,
                 "tsunami": 0
@@ -47,7 +47,7 @@
             "type": "Feature",
             "properties": {
                 "id": "ak16994517",
-                "mag": 1.6,
+                "mag": 4,
                 "time": 1507424832518,
                 "felt": null,
                 "tsunami": 0
@@ -65,7 +65,7 @@
             "type": "Feature",
             "properties": {
                 "id": "ci38021336",
-                "mag": 1.42,
+                "mag": 2,
                 "time": 1507423898710,
                 "felt": null,
                 "tsunami": 0
@@ -83,7 +83,7 @@
             "type": "Feature",
             "properties": {
                 "id": "us2000b2nn",
-                "mag": 4.2,
+                "mag": 2,
                 "time": 1507422626990,
                 "felt": null,
                 "tsunami": 0
@@ -101,7 +101,7 @@
             "type": "Feature",
             "properties": {
                 "id": "ak16994510",
-                "mag": 1.6,
+                "mag": 2,
                 "time": 1507422449194,
                 "felt": null,
                 "tsunami": 0
@@ -119,7 +119,7 @@
             "type": "Feature",
             "properties": {
                 "id": "us2000b2nb",
-                "mag": 4.6,
+                "mag": 2,
                 "time": 1507420784440,
                 "felt": null,
                 "tsunami": 0
@@ -137,7 +137,7 @@
             "type": "Feature",
             "properties": {
                 "id": "ak16994298",
-                "mag": 2.4,
+                "mag": 2,
                 "time": 1507419370097,
                 "felt": null,
                 "tsunami": 0
@@ -155,7 +155,7 @@
             "type": "Feature",
             "properties": {
                 "id": "nc72905861",
-                "mag": 1.39,
+                "mag": 1,
                 "time": 1507418785100,
                 "felt": null,
                 "tsunami": 0
