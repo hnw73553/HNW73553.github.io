@@ -7,18 +7,20 @@
         }
     },
     "features": [
-        {    
-            "name":"长乐村小区"
+        {
             "type": "Feature",
             "properties": {
                 "id": "ak16994521",
-                "mag": 4
+                "mag": 2.3,
+                "time": 1507425650893,
+                "felt": null,
+                "tsunami": 0
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                  121.44080677642938,
-                  31.21896960557828
+                    -151.5129,
+                    63.1016,
                     0
                 ]
             }
@@ -218,6 +220,24 @@
                     -151.4378,
                     63.0933,
                     0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "ak16994285",
+                "mag": 1.5,
+                "time": 1507413670029,
+                "felt": null,
+                "tsunami": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -149.6538,
+                    63.2272,
+                    96.8
                 ]
             }
         }
