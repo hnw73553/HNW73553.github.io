@@ -1,0 +1,155 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "name":"长乐村小区"
+      "type": "Feature",
+      "properties": {
+      "mag":4
+},
+      "geometry": {
+      "type": "Point",
+        "coordinates": [
+          121.44080677642938,
+          31.21896960557828
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "name":"康绥公寓"
+      "type": "Feature",
+      "properties": {      
+"mag":4
+},
+      "geometry": {
+      "type": "Point",
+        "coordinates": [
+          121.46538727948212,
+          31.223480760579534
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "name":"乐安坊小区"
+      "type": "Feature",
+      "properties": {
+"mag":4
+},
+      "geometry": {
+      "type": "Point",
+        "coordinates": [
+          121.4627366769015,
+          31.22147522594703
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "name":"人民坊小区"
+      "type": "Feature",
+      "properties": {
+"mag":4
+},
+      "geometry": {
+      "type": "Point",
+        "coordinates": [
+          121.45804162790029,
+          31.21927617583657
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "name":"淮海坊小区"
+      "type": "Feature",
+      "properties": {
+"mag":4
+},
+      "geometry": {
+      "type": "Point",
+        "coordinates": [
+          121.45597151262916,
+          31.21845883813738
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "name":"陕南坊小区"
+      "type": "Feature",
+      "properties": {
+"mag":4
+},
+      "geometry": {
+      "type": "Point",
+        "coordinates": [
+          121.45624050194323,
+          31.216394694279472
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "name":"永嘉路21弄小区"
+      "type": "Feature",
+      "properties": {
+"mag":4
+},
+      "geometry": {
+      "type": "Point",
+        "coordinates": [
+          121.45955018349252,
+          31.212262501634854
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "name":"建中小区"
+      "type": "Feature",
+      "properties": {
+"mag":4
+},
+      "geometry": {
+      "type": "Point",
+        "coordinates": [
+          121.46563547707115,
+          31.210242472509805
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "name":"瞿溪路1200弄小区"
+      "type": "Feature",
+      "properties": {
+"mag":4
+},
+      "geometry": {
+      "type": "Point",
+        "coordinates": [
+          121.46707043331696,
+          31.19854679106895
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "name":"龙华小区"
+      "type": "Feature",
+      "properties": {
+"mag":4
+},
+      "geometry": {
+      "type": "Point",
+        "coordinates": [
+          121.46846557296033,
+          31.19730112489222
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}
