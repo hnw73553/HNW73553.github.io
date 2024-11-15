@@ -10,13 +10,12 @@
         {
             "type": "Feature",
             "properties": {
-                "id": "长乐村小区",
                 "mag": 10,
                 "time": 1507425650893,
                 "felt": null,
                 "tsunami": 0
             },
-            "cid": "长乐村小区",
+            "id": "长乐村小区",
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -29,12 +28,12 @@
         {
             "type": "Feature",
             "properties": {
-                "id": "康绥公寓",
                 "mag": 4,
                 "time": 1507425289659,
                 "felt": null,
                 "tsunami": 0
             },
+            "id": "康绥公寓",
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -47,12 +46,12 @@
         {
             "type": "Feature",
             "properties": {
-                "id": "乐安坊小区",
                 "mag": 4,
                 "time": 1507424832518,
                 "felt": null,
                 "tsunami": 0
             },
+            "id": "乐安坊小区",
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -65,12 +64,12 @@
         {
             "type": "Feature",
             "properties": {
-                "id": "人民坊小区",
                 "mag": 2,
                 "time": 1507423898710,
                 "felt": null,
                 "tsunami": 0
             },
+            "id": "人民坊小区",
             "geometry": {
                 "type": "Point",
                 "coordinates": [
